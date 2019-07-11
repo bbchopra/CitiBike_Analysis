@@ -8,7 +8,7 @@ This Project is based on data range: From January to December, 2018
 
 Data Source: https://www.citibikenyc.com/system-data
 
-Used ìCitiBike_data_cleanup.ipynbî to combine large monthly datasets with trip history and quarterly datasets with membership data for 2018 into consolidated csv files
+Used ‚ÄúCitiBike_data_cleanup.ipynb‚Äù to combine large monthly datasets with trip history and quarterly datasets with membership data for 2018 into consolidated csv files
 
 ## Interactive Version of the Analysis
 
@@ -16,7 +16,7 @@ Tableau Story:
 
 https://public.tableau.com/profile/bharat.chopra#!/vizhome/CitiBikeAnalysis_15627371124210/CitiBikeAnalytics2018?publish=yes
 
-## Snapshots of the Tableau dashboards
+## Snapshots of the Tableau Story/Dashboards
 
 ![Citi-Bikes1](image/CitiBikeAnalytics.png)
 ![Citi-Bikes2](image/PeakHours.png)
