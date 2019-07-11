@@ -18,13 +18,13 @@ https://public.tableau.com/profile/bharat.chopra#!/vizhome/CitiBikeAnalysis_1562
 
 ## Snapshots of the Tableau dashboards
 
-![Citi-Bikes1](image/CitiBikeAnalytics.jpg)
-![Citi-Bikes2](image/PeakHours.jpg)
-![Citi-Bikes6](image/PopularLocations.jpg)
-![Citi-Bikes3](image/TopStations.jpg)
-![Citi-Bikes4](image/GenderDistribution.jpg)
-![Citi-Bikes5](image/RidershipTrend.jpg)
-![Citi-Bikes7](image/BikeMileage.jpg)
+![Citi-Bikes1](image/CitiBikeAnalytics.png)
+![Citi-Bikes2](image/PeakHours.png)
+![Citi-Bikes6](image/PopularLocations.png)
+![Citi-Bikes3](image/TopStations.png)
+![Citi-Bikes4](image/GenderDistribution.png)
+![Citi-Bikes5](image/RidershipTrend.png)
+![Citi-Bikes7](image/BikeMileage.png)
 
 ## Technologies used
 ![python](image/python.png)
