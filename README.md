@@ -12,20 +12,19 @@ Used “CitiBike_data_cleanup.ipynb” to combine large monthly datasets with trip h
 
 ## Interactive Version of the Analysis
 
-Final Tableau Story:
+Tableau Story:
 
-https://public.tableau.com/profile/bharat.chopra#!/vizhome/CitiBikeAnalysis_15627371124210/2018Growth
+https://public.tableau.com/profile/bharat.chopra#!/vizhome/CitiBikeAnalysis_15627371124210/CitiBikeAnalytics2018?publish=yes
 
 ## Snapshots of the Tableau dashboards
 
-![Citi-Bikes1](image/2018-growth.png)
-![Citi-Bikes2](image/peak-hours.png)
-![Citi-Bikes3](image/top-and-bottom-10.png)
-![Citi-Bikes4](image/male-vs-female.png)
-![Citi-Bikes5](image/female-ridership.png)
-![Citi-Bikes6](image/repair-bikes.png)
-![Citi-Bikes7](image/city-officials.png)
-![Citi-Bikes8](image/gender-distribution.png)
+![Citi-Bikes1](image/CitiBikeAnalytics.jpg)
+![Citi-Bikes2](image/PeakHours.jpg)
+![Citi-Bikes6](image/PopularLocations.jpg)
+![Citi-Bikes3](image/TopStations.jpg)
+![Citi-Bikes4](image/GenderDistribution.jpg)
+![Citi-Bikes5](image/RidershipTrend.jpg)
+![Citi-Bikes7](image/BikeMileage.jpg)
 
 ## Technologies used
 ![python](image/python.png)
